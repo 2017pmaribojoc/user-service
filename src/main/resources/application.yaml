@@ -1,0 +1,5 @@
+service.name: user
+
+server:
+  contextPath: /${service.name}
+  port: 8002
